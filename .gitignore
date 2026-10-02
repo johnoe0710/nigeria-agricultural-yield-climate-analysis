@@ -1,0 +1,17 @@
+# Power BI temp/lock files
+~$*.pbix
+*.pbix.bak
+
+# OS junk files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE
+.vscode/
+*.swp
+
+# Python (if analysis scripts are run locally)
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
