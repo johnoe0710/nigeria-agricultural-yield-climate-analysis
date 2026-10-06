@@ -4,7 +4,14 @@ An end-to-end Power BI analysis of Nigeria's national crop production, land use,
 
 ## Screenshots
 
-*Screenshots pending — will be added here once captured. See `05_images/README.md` for the list of views to capture.*
+The project includes the final dashboard screenshots in `05_images/`:
+
+- `01-dashboard-overview.png`
+- `02-yield-trend-analysis.png`
+- `03-rainfall-correlation.png`
+- `04-model-relationship-view.png`
+
+See [`05_images/README.md`](05_images/README.md) for the approved capture list and view guidance.
 
 ## Project Objective
 
